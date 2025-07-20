@@ -6,7 +6,7 @@ Glued Plants
 		[[Java Moss]]
 		[[Peacock Moss]]
 	Anubias
-		[[Anubias Petite]]
+		[[Anubias nana 'Petite' OR Bucephalandra Theia]]
 
 Rooted Plants
 	Cryptocorine
