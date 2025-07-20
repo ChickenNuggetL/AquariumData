@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "08e3cce3c2df750b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc13adae91bb945a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d49fcf4a9aa502",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d8b1585adead0f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a8b171202e597b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cedbd3f3484188b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea3960fe7dcce619",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e182b71468d6dc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "736ae2d0642dd774",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2be50e464a2313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad663481fc8d046b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "fea47537d74eef3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "0a0fccc047f5cf54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe7fb8354a6a456f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0d49fcf4a9aa502",
+  "lastOpenFiles": [
+    "Aquarium/Plants/LowCO2 LowLight/Glued/Anubias/Anubias Petite.md",
+    "Aquarium/Plants/LowCO2 LowLight/Glued/Moss/Peacock Moss.md",
+    "Aquarium/Plants/LowCO2 LowLight/Floaters/Amazon Frogbit.md",
+    "Aquarium/Plants/LowCO2 LowLight/Low CO2 Low Light.md",
+    "Aquarium/Plants/LowCO2 LowLight/Glued/Moss/Java Moss.md",
+    "IMG-20250720-WA0044.jpg",
+    "Aquarium/Plants/LowCO2 LowLight/RootedPlants/Cryptocorine Wendtii.md",
+    "Aquarium/Plants/LowCO2 LowLight/RootedPlants/Carpeting Plants/Dwarf Sagitaria.md",
+    "Aquarium/Plants/Tank Type.md",
+    "Aquarium/START HERE.md",
+    "Welcome.md"
+  ]
+}
