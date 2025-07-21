@@ -1,10 +1,11 @@
 ![[IMG-20250720-WA0040.jpg]]
 
-Glue to Rock/Driftwood 
-Grows to peacock's tail shape (more structured than java moss) 
+Glue to hardscape. Thrives in low light. 
+Feathery, triangular grows like a peacock's tail.
 Leaves can be Trimmed
 Colour = Normal Green
 
+Extremely hardy. A perfect grazing ground for shrimp. Low maintenance.
 
 
 
